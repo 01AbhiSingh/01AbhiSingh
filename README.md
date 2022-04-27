@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhi69singh
+- 👋 Hi, I’m Abhishek Singh.
 - 👀 I’m interested in Data Engineering field.
 - 🌱 I’m currently pursuing B.Tech (Computer Science and Engineering) 
 - 💞️ I’m looking to collaborate on ...
