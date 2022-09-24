@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Abhishek Singh.
-- 👀 I’m interested in Data Engineering field.
-- 🌱 I’m currently pursuing B.Tech (Computer Science and Engineering) 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey!!It's me Abhishek
+- 🌱 I’m currently learning Data Structure, Algorithm, C++, JavaScript.
 
-<!---
-abhi69singh/abhi69singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=01AbhiSingh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01AbhiSingh&theme=tokyonight )
