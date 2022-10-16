@@ -1,5 +1,6 @@
 ### Hey!!It's me Abhishek
-- 🌱 I’m currently learning Data Structure, Algorithm, C++,Web Development.
+- 🌱 I’m currently learning Data Structure, Algorithm, C++.
+- 🏵 Trying my hand in Web Development,Javascipt.
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=01AbhiSingh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
