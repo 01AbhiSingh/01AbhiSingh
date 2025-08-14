@@ -1,37 +1,39 @@
-# Hey, I'm Abhishek! ✨
+# Abhishek Singh
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQ4anZ4NHVjYnU5b2tmeHk1c3Jtbjd3c3IzdGRuNjY1N3F0cTJ1ayZlcD12MyZpbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkDC/giphy.gif" width="300px">
-</div>
-
-Welcome to my little corner of the internet! I'm a developer who loves taking on challenges, whether it's optimizing an algorithm in **C++** or teaching a neural network to see with **Python**.
-
-I'm currently working as a **Computer Vision/Perception Intern** at **ERIC Robotics**, which has been an incredible journey so far. I'm also proud to be an open-source contributor to **Lightning AI** ⚡.
+Passionate about building intelligent systems. Currently exploring the depths of **Computer Vision** as an Intern at **ERIC Robotics**. My focus is on writing clean, efficient code and solving complex problems.
 
 ---
 
-### 💻 Tech I'm Currently Excited About
-
-* **Languages:** `C++`, `Python`, `Golang`
-* **AI/ML:** `PyTorch`, `TensorFlow`, `OpenCV`, `Scikit-learn`
-* **Core Skills:** `Data Structures`, `Algorithms`, `Problem Solving`
-
----
-
-### A Little More About Me
-
-* 🔭 I’m currently focused on building robust perception pipelines for robotics.
-* 🌱 I’m always learning, right now diving deeper into 3D Computer Vision.
-* 💬 Ask me about anything related to AI, C++, or open-source!
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) is your best bet.
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01AbhiSingh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=01AbhiSingh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
+### What I'm Working With
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+### My Current Focus
+
+* **🌱 Learning:** Constantly growing my knowledge in Deep Learning and model optimization.
+* **🔭 Building:** Projects that bridge the gap between algorithms and real-world perception.
+* **🤝 Collaborating:** Open to joining forces on impactful open-source projects.
+* **⚡ Fun Fact:** I'm a contributor at **Lightning AI**!
+
+---
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=01AbhiSingh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=01AbhiSingh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Abhishek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01AbhiSingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
